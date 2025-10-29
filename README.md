@@ -18,3 +18,11 @@ pip freeze > requirements.txt
 ```
 pip install -r requirements.txt
 ```
+
+```
+py -0p
+```
+
+```
+& "path to python interpreter exe" -m pip install -r "requirements.txt"
+```
